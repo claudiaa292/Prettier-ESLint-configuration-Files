@@ -1,7 +1,7 @@
 
 # ESLint and Prettier configuration files 
 
-In order to have a common style code for all your projects, in Visual Studio Code you can use 2 extensions: ESLint and Prettier with their own configuration files :##
+In order to have a common style code for all your projects, in Visual Studio Code you can use 2 extensions: ESLint and Prettier with their own configuration files :
 
 •	**.prettierrc**
 
